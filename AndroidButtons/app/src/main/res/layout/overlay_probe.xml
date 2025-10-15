@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Минималистичный лэйаут для overlay-окна диагностики -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/overlayProbeRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rounded_overlay_background"
+    android:clipToOutline="true">
+
+    <!-- Светофор: отображает текущее состояние с плавными переходами -->
+    <ImageView
+        android:id="@+id/overlayStateStrip"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="false"
+        android:contentDescription="@string/overlay_state_strip_cd"
+        android:scaleType="fitXY" />
+
+</FrameLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета тёмной темы -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_surface_variant">#2C2C2C</color>
+    
+    <!-- Акцентные цвета -->
+    <color name="accent_green">#00E676</color>
+    <color name="accent_green_dark">#00C853</color>
+    
+    <!-- Текстовые цвета -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#E0E0E0</color>
+    <color name="text_tertiary">#B0B0B0</color>
+    
+    <!-- Консоль -->
+    <color name="console_background">#0D1117</color>
+    <color name="console_text">#00E676</color>
+    
+    <!-- Статус -->
+    <color name="status_connected">#00E676</color>
+    <color name="status_disconnected">#FF5252</color>
+    <color name="status_connecting">#FFC107</color>
+</resources>

@@ -1,0 +1,421 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug (with path)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug (post changes)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug (diagnostic logs)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug (rescan change)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug (background scan)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug (two-phase)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug (two-phase UX)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug (attached discover)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug (one-click)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug (clean-up)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (after baud change)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (final)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (baud fix)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (L1-L6 wiring)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (fix UART send)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (add CRLF)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (framed send)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			],
+			"problemMatcher": [
+				"$gradle"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (rx->switch->uart)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (tcp writer)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (tcp writer+hex)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (final)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			]
+		},
+		{
+			"label": "Gradle assembleDebug (format logs)",
+			"type": "shell",
+			"command": "d:\\AndroidApp\\AndroidButtons\\gradlew.bat",
+			"args": [
+				"assembleDebug",
+				"-x",
+				"lint"
+			]
+		}
+	]
+}

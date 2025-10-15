@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Размеры для планшетов (экран шириной >= 600dp, например Samsung Tab S6 Lite) -->
+<resources>
+    <!-- Отступы -->
+    <dimen name="settings_padding">32dp</dimen>
+    <dimen name="card_margin">20dp</dimen>
+    <dimen name="card_padding">24dp</dimen>
+    
+    <!-- Текст -->
+    <dimen name="title_text_size">36sp</dimen>
+    <dimen name="section_title_text_size">24sp</dimen>
+    <dimen name="body_text_size">18sp</dimen>
+    <dimen name="input_text_size">18sp</dimen>
+    
+    <!-- Консоль -->
+    <dimen name="console_height">400dp</dimen>
+    <dimen name="console_text_size">16sp</dimen>
+    
+    <!-- Элементы управления -->
+    <dimen name="input_height">64dp</dimen>
+    <dimen name="icon_size">40dp</dimen>
+</resources>

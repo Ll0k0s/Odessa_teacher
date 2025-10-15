@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">С-2-5М</string>
+    <string name="TCP">TCP</string>
+    <string name="addrTCP">Address:</string>
+    <string name="portTCP">Port:</string>
+    <string name="but_connect">Connect</string>
+    <string name="settings_title">Настройки</string>
+    <string name="overlay_state_strip_cd">Полоса состояний</string>
+    <string name="overlay_state_strip_cd_with_time">Полоса состояний, обновлено в %s</string>
+    <string name="settings_shortcut_label">Настройки С-2-5М</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Базовые размеры для телефонов -->
+<resources>
+    <!-- Отступы -->
+    <dimen name="settings_padding">24dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="card_padding">20dp</dimen>
+    
+    <!-- Текст -->
+    <dimen name="title_text_size">32sp</dimen>
+    <dimen name="section_title_text_size">22sp</dimen>
+    <dimen name="body_text_size">18sp</dimen>
+    <dimen name="input_text_size">16sp</dimen>
+    
+    <!-- Консоль -->
+    <dimen name="console_height">300dp</dimen>
+    <dimen name="console_text_size">14sp</dimen>
+    
+    <!-- Элементы управления -->
+    <dimen name="input_height">56dp</dimen>
+    <dimen name="icon_size">32dp</dimen>
+</resources>
